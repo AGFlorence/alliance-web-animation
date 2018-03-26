@@ -1,0 +1,59 @@
+html{
+  text-align: center;
+  font-family: Trebuchet MS;
+  font-size: 1rem;
+  padding: 1rem;
+  margin: 1rem;
+  border: 1rem;
+  background-color: #f7b9df;
+}
+
+header h1{
+	width: 31%;
+	font-size: 32px;
+	color: #fffdac;
+	background-color: #be0627;
+  text-decoration: none;
+	padding: 15px 4px;
+	margin: 0;
+	margin-bottom: 30px;
+	margin-left: 35%;
+	border-radius: 100px;
+}
+.TopNav{
+  display: inline-block;
+  height: auto;
+  width: 40%;
+  position: absolute;
+  top: 1;
+  left: 20%;
+  background-color: #be0627;
+	border-top-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+}
+ul{
+  list-style-type: none;
+	padding: 0;
+	margin:0;
+}
+.TopNav li{
+  display: inline-block;
+  margin:0 1%;
+  background-color: #be0627;
+
+}
+.TopNav a{
+	font-size: 16px;
+  color: #fffdac;
+  text-decoration: none;
+	padding: 15px 5px;
+	display:inline-block;
+	margin:0;
+}
+.TopNav a:hover {
+  color: #be0627;
+	background-color: #fffdac;
+}
+#center{
+	margin: 30px 30px;
+}
